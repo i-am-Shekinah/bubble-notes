@@ -26,3 +26,5 @@ dist-ssr
 
 # full tailwindcss.config.js file
 full.template.tailwind.config.js
+
+help-note.txt
