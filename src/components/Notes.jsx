@@ -1,7 +1,7 @@
 function Notes() {
   return (
     <>
-      <section className="col-span-1 pt-4 lg:border-r-1 pr-6">
+      <section className="col-span-1 pt-4 lg:border-r-1 lg:pr-6">
         <button className="bg-blue-200 w-full py-2 rounded-md cursor-pointer hover:px-6 transition-all delay-300 ease-in">
           + Create New Note
         </button>
