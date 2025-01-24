@@ -5,9 +5,9 @@ import Sidebar from './Sidebar';
 function Notebook() {
   return (
     <>
-      <main className="lg:grid lg:grid-cols-5 h-screen bg-white">
+      <main className="bg-white">
         <Sidebar />
-        <section className="lg:col-span-4 lg:ml-[25%] py-5 px-6">
+        <section className="lg:ml-[20%] py-5 px-6">
           <Header />
           <section className='lg:grid lg:grid-cols-4 h-full'>
             <Notes />
