@@ -1,6 +1,6 @@
 # BubbleNotes
 
-BubbleNotes is a sleek and user-friendly note-taking app that lets you organize your thoughts efficiently. With features like tagging, search functionality, and cloud sync, BubbleNotes is designed for simplicity and productivity. Built using HTML, Tailwind CSS, JavaScript, React, and Vite, it combines modern aesthetics with top-notch performance and offers a responsive, fast, and intuitive user experience.
+[BubbleNotes](https://bubble-notes-zeta.vercel.app/) is a sleek and user-friendly note-taking app that lets you organize your thoughts efficiently. With features like tagging, search functionality, and cloud sync, BubbleNotes is designed for simplicity and productivity. Built using HTML, Tailwind CSS, JavaScript, React, and Vite, it combines modern aesthetics with top-notch performance and offers a responsive, fast, and intuitive user experience.
 
 ## Table of Contents
 1. [Features](#features)
