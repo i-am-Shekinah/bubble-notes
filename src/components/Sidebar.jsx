@@ -4,7 +4,7 @@ import tag from '../assets/icons/tag.png';
 
 function Sidebar() {
   return (
-    <aside className="hidden lg:block lg:col-span-1 border-r-1 px-4">
+    <aside className="fixed hidden lg:block lg:col-span-1 border-r-1 px-4 h-full w-1/5">
       <a href="#">
         <img
           src="/logo.png"
