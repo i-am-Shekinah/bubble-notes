@@ -6,7 +6,7 @@ function Notebook() {
     <>
       <main className="lg:grid lg:grid-cols-5 h-screen bg-white">
         <Sidebar />
-        <section className="lg:col-span-4 py-5 px-4">
+        <section className="lg:col-span-4 py-5 px-6">
           <Header />
         </section>
       </main>

@@ -8,7 +8,7 @@ function Header() {
       <div className="flex justify-between items-center">
         <h1 className="h1">All Notes</h1>
         <a href="#" className="inline-block lg:hidden">
-          <img src={settings} alt="settings icon" className="w-4 h-4" />
+          <img src={settings} alt="settings icon" className="w-5 h-5" />
         </a>
       </div>
 
@@ -21,7 +21,7 @@ function Header() {
         />
         <FaSearch className="absolute left-3 text-gray-300" />
         <a href="#" className="hidden lg:inline-block">
-          <img src={settings} alt="settings icon" className="w-4 h-4" />
+          <img src={settings} alt="settings icon" className="w-5 h-5" />
         </a>
       </div>
     </header>
